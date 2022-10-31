@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+| <a href="https://github.com/ampiy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ampiy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="ampiy's github stats" /></a> | <a href="https://github.com/ampiy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ampiy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<a href="https://github-profile-trophy.vercel.app/?username=ampiy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ampiy" alt="ampiy's github stats" /></a>
+
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ampiy/count.svg" />
+</p>
